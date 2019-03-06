@@ -1,4 +1,4 @@
-# articles-swift-protocol-oriented-blockchain
+# Protocol Oriented Blockchain in Swift
 A Swift playground for showing how to create a protocol oriented blockchain
 
 For further details on this project, you can visit the Medium article here:
